@@ -1,0 +1,8 @@
+<VirtualHost www.danilogripa.com>
+ServerAdmin casadefestaseraumavez@meudominio.gov.br
+DocumentRoot /var/www/Casa-de-Festas-Era-Uma-Vez/
+ServerName eraumavez.danilogripa.com
+ServerAlias *.eraumavez.danilogripa.com
+ErrorLog /var/log/apache2/eraumavez-error.log
+CustomLog /var/log/apache2/eraumavez-access.log combined
+</VirtualHost>

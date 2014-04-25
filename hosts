@@ -1,0 +1,9 @@
+127.0.0.1	localhost
+69.28.92.139	homologdebian
+69.28.92.139	danilogripa.com
+69.28.92.139	eraumavez.danilogripa.com
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
